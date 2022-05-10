@@ -1,19 +1,15 @@
 {
-    "name": "Ninja BOT",
+    "name": "Ｒｙｏｂｏｔ－Ｍｄ V2",
     "version": "3.0.1",
-    "creator": "Amirul Dev",
+    "creator": "Rio Saputra",
     "numown": [
-        "6281358919342",
-        "628515748946",
-        "6289602213818"
+        "6282117332347",
     ],
     "nameown": [
-        "Amirul Dev",
-        "Amirul Dev",
-        "Amirul Dev"
+        "Rio Saputra",
     ],
     "gc": [
-        "https://chat.whatsapp.com/Gkl0LlOd70J1W1VKALiIJt"
+        "https://chat.whatsapp.com/LHKNcjTzVfkLIS1DD9E6Us"
     ],
     "prefix": [
         ".",
@@ -22,7 +18,7 @@
         "!",
         "?"
     ],
-    "ses": "NINJABOT MD",
+    "ses": "Ｒｙｏｂｏｔ－Ｍｄ V2",
     "browser": "Firefox",
     "emot": [
         "😆",
@@ -59,7 +55,7 @@
         "https://telegra.ph/file/0b51e39c9d1aaa5404759.jpg",
         "https://telegra.ph/file/f8f6a733d8dd23acec9ab.jpg"
     ],
-    "pack": "Made by NINJA BOT\n        info update\n    IG: @amirul.dev",
+    "pack": "   Ｒｙｏｂｏｔ－Ｍｄ V2\n     info update\n    IG: @amirul.dev",
     "author": "",
     "tempDir": "./temp/",
     "unicode": {
